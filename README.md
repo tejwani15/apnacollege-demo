@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my first git repository
-author - bhumi tejwani
+<br>
+<h1>author - bhumi tejwani</h1>
